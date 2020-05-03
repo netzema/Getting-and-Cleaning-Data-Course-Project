@@ -1,8 +1,8 @@
-#Code Book
+# Code Book
 This code book summarizes the measurements and variables of the final project.
 
 
-#Measurements
+# Measurements
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
@@ -83,7 +83,7 @@ fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
-#Activity identifyer
+# Activity identifyer
 WALKING: subject was walking
 WALKING_UPSTAIRS: subject was walking upstairs
 WALKING_DOWNSTAIRS: subject was walking downstairs
